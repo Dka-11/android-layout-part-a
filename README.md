@@ -2,9 +2,9 @@
 
 ### Biodata
 
-Nama  : Adika Ahmad Hanif Nazhir
-Kelas : TI-3B
-NIM   : 2041720171 
+Nama  : Adika Ahmad Hanif Nazhir  
+Kelas : TI-3B  
+NIM   : 2041720171   
 
 ## Tampilan awal Aplikasi 
 
