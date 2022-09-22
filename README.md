@@ -1,10 +1,11 @@
 # Android Fundamentals 01.2 Part A: Your first interactive UI
 
-### Biodata
+Praktikum Minggu - 3
 
-Nama  : Adika Ahmad Hanif Nazhir  
-Kelas : TI-3B  
-NIM   : 2041720171   
+### Biodata
+  Nama  : Adika Ahmad Hanif Nazhir  
+  Kelas : TI 3B  
+  NIM   : 2041720171  
 
 ## Tampilan awal Aplikasi 
 
